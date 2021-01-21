@@ -16,12 +16,12 @@
     height: 120px;
     z-index: 20;
     font-family: 'Sail';
-    font-size: 1.5em;
+    font-size: 1.2em;
    }
 
    .title{
     text-align: center;
-    padding-top: 10em;
+    padding-top: 5em;
     font-family: 'Sail';
     color: white;
 }
@@ -37,6 +37,6 @@ font-size: 2em;
 }
 
 body{
-background: black url('Weihnachten.jpg') no-repeat center;
+background: whitesmoke url('Weihnachten.jpg') no-repeat center;
 background-size: cover;
 }
