@@ -10,9 +10,24 @@
     display: inline-flex;
     width: 100vw;
     background-color:whitesmoke;
-    color: whitesmoke;
+    color:black;
     margin-right: 20px;
     padding-right:  13.1em;
-    height: 70px;
+    height: 100px;
     z-index: 20;
+    font-family: 'Sail';
    }
+
+   .title{
+    text-align: center;
+    padding-top: 8em;
+    font-family: 'Sail';
+}
+
+.navbar-brand{
+font-family: 'Sail';
+}
+
+.nav-link{
+    font-family: 'Sail';
+}
