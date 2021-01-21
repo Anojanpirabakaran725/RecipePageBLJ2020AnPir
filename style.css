@@ -13,7 +13,7 @@
     color:black;
     margin-right: 20px;
     padding-right:  13.1em;
-    height: 100px;
+    height: 120px;
     z-index: 20;
     font-family: 'Sail';
    }
@@ -22,6 +22,7 @@
     text-align: center;
     padding-top: 8em;
     font-family: 'Sail';
+    color: white;
 }
 
 .navbar-brand{
@@ -30,4 +31,9 @@ font-family: 'Sail';
 
 .nav-link{
     font-family: 'Sail';
+}
+
+body{
+background: black url('Weihnachten.jpg') no-repeat center;
+background-size: cover;
 }
