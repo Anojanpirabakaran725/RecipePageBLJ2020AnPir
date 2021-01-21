@@ -21,7 +21,7 @@
 
    .title{
     text-align: center;
-    padding-top: 5em;
+    padding-top: 10em;
     font-family: 'Sail';
     color: white;
 }
@@ -40,3 +40,4 @@ body{
 background: whitesmoke url('Weihnachten.jpg') no-repeat center;
 background-size: cover;
 }
+
