@@ -1,0 +1,19 @@
+#Logo{
+    width: 150px;
+    padding-right: 20px;
+   }
+
+   footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    display: inline-flex;
+    width: 100vw;
+    background-color:whitesmoke;
+    color: whitesmoke;
+    margin-right: 20px;
+    padding-right:  13.1em;
+    height: 70px;
+    z-index: 20;
+    
+   }
