@@ -1,5 +1,5 @@
 #Logo{
-    width: 150px;
+    width: 250px; 
     padding-right: 20px;
    }
 
@@ -16,21 +16,24 @@
     height: 120px;
     z-index: 20;
     font-family: 'Sail';
+    font-size: 1.5em;
    }
 
    .title{
     text-align: center;
-    padding-top: 8em;
+    padding-top: 10em;
     font-family: 'Sail';
     color: white;
 }
 
 .navbar-brand{
 font-family: 'Sail';
+font-size: 2em;
 }
 
 .nav-link{
     font-family: 'Sail';
+    font-size: 2em;
 }
 
 body{
