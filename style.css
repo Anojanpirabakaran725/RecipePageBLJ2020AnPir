@@ -21,7 +21,7 @@
 
    .title{
     text-align: center;
-    padding-top: 10em;
+    padding-top: 3em;
     font-family: 'Sail';
     color: white;
 }
@@ -41,3 +41,22 @@ background: whitesmoke url('Weihnachten.jpg') no-repeat center;
 background-size: cover;
 }
 
+
+#Landhockeyblog {
+    z-index: 1;
+    display: block;
+    background-color: rgba(00, 00, 00, 0.5);
+    opacity: 50%;
+    position: relative;
+    top: 50%;
+    width: 500px;
+    height: 60px;
+    margin-top: 1px;
+    padding: right 5px;
+    font-size: 3em;
+    transform: translate(0px 2em);    
+  }
+
+  .col-md-6{
+      color: white;
+  }
