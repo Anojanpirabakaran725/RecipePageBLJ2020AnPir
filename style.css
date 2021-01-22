@@ -21,7 +21,7 @@
 
    .title{
     text-align: center;
-    padding-top: 3em;
+    padding-top: 2em;
     font-family: 'Sail';
     color: white;
 }
@@ -44,6 +44,8 @@ position: relative;
 
   .col-md-6{
       color: white;
+      font-family: 'Sail';
+      font-size: 1em;
   }
 
   .Contact{
