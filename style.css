@@ -10,11 +10,7 @@
     display: inline-flex;
     width: 100vw;
     background-color:whitesmoke;
-    color:black;
-    margin-right: 20px;
     padding-right:  13.1em;
-    height: 30px;
-    z-index: 20;
     font-family: 'Sail';
     font-size: 1.2em;
    }
@@ -39,7 +35,6 @@ font-size: 2em;
 body{
 background: whitesmoke url('Weihnachten.jpg') no-repeat center;
 background-size: cover;
-position: relative;
 }
 
   .col-md-6{
