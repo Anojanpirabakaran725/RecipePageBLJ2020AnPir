@@ -35,6 +35,7 @@ font-size: 2em;
 body{
 background: whitesmoke url('Weihnachten.jpg') no-repeat center;
 background-size: cover;
+    display: block;
 }
 
   .col-md-6{
